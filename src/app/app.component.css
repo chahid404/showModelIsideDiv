@@ -1,0 +1,39 @@
+/* .after_modal_appended {
+  position: relative;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: aqua;
+}
+
+.block {
+  width: 100%;
+  height: 200px;
+}
+
+.modal,
+.modal-backdrop {
+  position: absolute !important;
+} */
+
+.bigform-content {
+  border: solid 5px #ddd;
+  margin: 30px 20px;
+  overflow: hidden;
+  padding: 20px;
+  position: relative;
+}
+.modal,
+.modal-backdrop {
+  position: absolute !important;
+}
+.bigform-content h1 {
+  margin: 0;
+}
+.bigform-content input[type="submit"] {
+  margin-top: 10px;
+}

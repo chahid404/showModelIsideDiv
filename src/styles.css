@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* .cc {
+  background-color: blue;
+} */
+.bigform-content {
+  border: solid 5px #ddd;
+  margin: 30px 20px;
+  overflow: hidden;
+  padding: 20px;
+  position: relative;
+}
+.modal,
+.modal-backdrop {
+  position: absolute !important;
+}
+.bigform-content h1 {
+  margin: 0;
+}
+.bigform-content input[type="submit"] {
+  margin-top: 10px;
+}
